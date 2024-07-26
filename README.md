@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bioinformatician
 ----------------
 
-I've been learning to code for 4 years now with my major in Bioinformatics. I started with Python, but have really found a passion for Data Science.
+I've been learning to code for 4+ years now with my major in Bioinformatics. I started with Python, but have really found a passion for Data Science.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pakhichettri7@gmail.com](mailto:pakhichettri7@gmail.com)
